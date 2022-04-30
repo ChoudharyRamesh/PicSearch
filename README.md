@@ -1,3 +1,3 @@
 # Pic Search
 A simple rest api demonstration
-![](Extra/main.png)
+![](Extra/main.png width="128")
