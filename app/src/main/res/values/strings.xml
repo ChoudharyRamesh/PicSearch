@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pic Search</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <array name="photoSize">
+        <item>Raw</item>
+        <item>Standard</item>
+    </array>
+
+</resources>

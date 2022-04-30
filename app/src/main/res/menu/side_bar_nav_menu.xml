@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_downloads"
+        android:icon="@drawable/ic_folder"
+        android:title="Downloads" />
+
+    <item android:id="@+id/menu_history"
+        android:icon="@drawable/ic_search_history"
+        android:title="History"/>
+</menu>
