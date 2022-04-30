@@ -2,5 +2,5 @@
 A simple rest api demonstration
 ![](Extra/main.png | width=128)
 
-<p> hello
-  <p/>
+
+  <img src="Extra/main.png" width="350" title="hover text">
